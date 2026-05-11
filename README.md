@@ -2,7 +2,7 @@
 ---
 - Te invito a ver un poco sobre mi y mis creaciones académicas (⁠＾⁠∇⁠＾⁠)⁠ﾉ⁠♪ 
     - Actualmente estudio programacion e intento mejorar mis habilidades en programación
-  ![]()
+  ![](https://share.google/ABp7IAkexctcdaLYN)
 ---
 
 <!--
