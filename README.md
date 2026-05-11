@@ -1,7 +1,8 @@
 #Wolaaa 👋
 ---
 Te invito a ver un poco sobre mi y mis creaciones académicas (⁠＾⁠∇⁠＾⁠)⁠ﾉ⁠♪ 
--
+    -Actualmente estudio programacion e intento mejorar mis habilidades en programación 
+---
 
 <!--
 **up250450mmen/up250450mmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
