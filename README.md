@@ -2,7 +2,11 @@
 ---
 - Te invito a ver un poco sobre mi y mis creaciones académicas (⁠＾⁠∇⁠＾⁠)⁠ﾉ⁠♪ 
     - Actualmente estudio programacion e intento mejorar mis habilidades en programación
-    - ![Gatitos](https://share.google/ABp7IAkexctcdaLYN)
+---
+# Personal
+---
+Tengo 18 años y estudio la universidad 
+
 ---
 
 <!--
